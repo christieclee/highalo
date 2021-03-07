@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "harc";
-   src:url("//christieclee.github.io/highalo/harc.eot");
-  src:url("//christieclee.github.io/highalo/harc.eot?#iefix") format("embedded-opentype"),
-    url("//christieclee.github.io/highalo/harc.woff") format("woff"),
-    url("//christieclee.github.io/highalo/harc.ttf") format("truetype"),
-    url("//christieclee.github.io/highalo/harc.svg#starry") format("svg");
+   src:url("//christieclee.github.io/highalo/harc/harc.eot");
+  src:url("//christieclee.github.io/highalo/harc/harc.eot?#iefix") format("embedded-opentype"),
+    url("//christieclee.github.io/highalo/harc/harc.woff") format("woff"),
+    url("//christieclee.github.io/highalo/harc/harc.ttf") format("truetype"),
+    url("//christieclee.github.io/highalo/harc/harc.svg#starry") format("svg");
   font-weight: normal;
   font-weight: normal;
   font-style: normal;
