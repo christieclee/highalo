@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "deer";
+  src:url("//christieclee.github.io/highalo/zuki/deer.eot?dl=0");
+  src:url("//christieclee.github.io/highalo/zuki/deer.eot?#iefix") format("embedded-opentype"),
+    url("//christieclee.github.io/highalo/zuki/deer.woff?dl=0") format("woff"),
+    url("//christieclee.github.io/highalo/zuki/deer.ttf?dl=0") format("truetype"),
+    url("//christieclee.github.io/highalo/zuki/deer.svg?dl=0#starry") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "deer" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="de-"]:before,
+[class*=" de-"]:before {
+  font-family: "deer" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="de-"],[class*=" de-"]{display:inline-grid;}
+
+.de-figs:before {
+  content: "\d100";
+}
