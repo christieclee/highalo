@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "boolovd";
+   src:url("//christieclee.github.io/highalo/boo/boolovd.eot");
+  src:url("//christieclee.github.io/highalo/boo/boolovd.eot?#iefix") format("embedded-opentype"),
+    url("//christieclee.github.io/highalo/boo/boolovd.woff") format("woff"),
+    url("//christieclee.github.io/highalo/boo/boolovd.ttf") format("truetype"),
+    url("//christieclee.github.io/highalo/boo/boolovd.svg#boolovd") format("svg");
+
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "boolovd" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="bb-"]:before,
+[class*=" bb-"]:before {
+  font-family: "boolovd" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+[class^="bb-"],[class*=" bb-"]{display:inline-grid;}
+
+
+.bb-cat:before {
+  content: "\bb1";
+}
+.bb-diamond:before {
+  content: "\bb2";
+}
+.bb-dream-catcher:before {
+  content: "\bb3";
+}
+.bb-ghost:before {
+  content: "\bb4";
+}
+.bb-keyboard:before {
+  content: "\bb5";
+}
+.bb-pin-cushion:before {
+  content: "\bb6";
+}
+.bb-stitching:before {
+  content: "\bb7";
+}
+.bb-rosey:before {
+  content: "\bb8";
+}
+.bb-study:before {
+  content: "\bb9";
+}
+.bb-wimby:before {
+  content: "\bb10";
+}
