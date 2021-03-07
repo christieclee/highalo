@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "pandora-box";
+  src:url("https://dl.dropbox.com/s/qz2jcu4frtvenph/pandora-box.eot");
+  src:url("https://dl.dropbox.com/s/qz2jcu4frtvenph/pandora-box.eot?#iefix") format("embedded-opentype"),
+    url("https://dl.dropbox.com/s/8qq1118dyinxr4n/pandora-box.woff") format("woff"),
+    url("https://dl.dropbox.com/s/r2sr9nrlqehy9je/pandora-box.ttf") format("truetype"),
+    url("https://dl.dropbox.com/s/1rc0g5p40c84j1w/mitzi.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "pandora-box" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="pb-"]:before,
+[class*=" pb-"]:before {
+  font-family: "pandora-box" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="pb-"],[class*=" pb-"]{display:inline-grid;}
+
+.pb-tea:before {
+  content: "\e000";
+}
+.pb-coffin:before {
+  content: "\e001";
+}
+.pb-cat:before {
+  content: "\e002";
+}
+
+.pb-mushroom-1:before {
+  content: "\e003";
+}
+.pb-mushroom:before {
+  content: "\e004";
+}
+
+.pb-bee:before {
+  content: "\e005";
+}
+.pb-bee-1:before {
+  content: "\e006";
+}
+.pb-lolly:before {
+  content: "\e007";
+}
+.pb-skelly:before {
+  content: "\e008";
+}
+
+.pb-fairy:before {
+  content: "\e009";
+}
+.pb-sand:before {
+  content: "\e00a";
+}
+.pb-succulent:before {
+  content: "\e00b";
+}
+
+.pb-gem:before {
+  content: "\e00c";
+}
+
+.pb-beetle:before {
+  content: "\e00d";
+}
+.pb-heart-filled:before {
+  content: "\e00e";
+}
