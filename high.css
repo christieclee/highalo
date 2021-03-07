@@ -1,0 +1,118 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "high";
+   src:url("https://dl.dropbox.com/s/3l9x0jon31ixubu/high.eot");
+  src:url("https://dl.dropbox.com/s/3l9x0jon31ixubu/high.eot?#iefix") format("embedded-opentype"),
+    url("https://dl.dropbox.com/s/jj4lppe0rj6veqf/high.woff") format("woff"),
+    url("https://dl.dropbox.com/s/4x8027t7hbgk4x5/high.ttf") format("truetype"),
+    url("https://dl.dropbox.com/s/dz4zlomk4pwzsfe/high.svg#high") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+[data-icon]:before {
+  font-family: "high" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="high-"]:before,
+[class*=" high-"]:before {
+  font-family: "high" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="high-"],[class*=" high-"]{display:inline-grid;}
+
+.high-paris:before {
+  content: "\31";
+}
+.high-marko:before {
+  content: "\33";
+}
+.high-darius:before {
+  content: "\32";
+}
+.high-leon:before {
+  content: "\34";
+}
+.high-naito:before {
+  content: "\36";
+}
+.high-seema:before {
+  content: "\37";
+}
+.high-yusuf:before {
+  content: "\38";
+}
+.high-wick:before {
+  content: "\61";
+}
+.high-pippa:before {
+  content: "\63";
+}
+.high-dom:before {
+  content: "\64";
+}
+.high-charlie:before {
+  content: "\66";
+}
+.high-melon:before {
+  content: "\70";
+}
+.high-alice:before {
+  content: "\68";
+}
+
+.high-romy:before {
+  content: "\62";
+}
+
+.high-olive:before {
+  content: "\6f";
+}
+
+.high-ravenclaw:before {
+  content: "\65";
+}
+
+.high-faculty:before {
+  content: "\67";
+}
+
+.high-alecto:before {
+  content: "\6a";
+}
+
+.high-alec:before {
+  content: "\69";
+}
+
+.high-hufflepuff:before {
+  content: "\6b";
+}
+
+.high-slytherin:before {
+  content: "\6c";
+}
+
+.high-romy2:before {
+  content: "\6d";
+}
