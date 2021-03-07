@@ -47,14 +47,8 @@
 .high-marko:before {
   content: "\33";
 }
-.high-darius:before {
-  content: "\32";
-}
 .high-leon:before {
   content: "\34";
-}
-.high-naito:before {
-  content: "\36";
 }
 .high-seema:before {
   content: "\37";
@@ -71,48 +65,27 @@
 .high-dom:before {
   content: "\64";
 }
-.high-charlie:before {
-  content: "\66";
-}
-.high-melon:before {
-  content: "\70";
-}
 .high-alice:before {
   content: "\68";
 }
-
 .high-romy:before {
   content: "\62";
 }
-
 .high-olive:before {
   content: "\6f";
 }
-
-.high-ravenclaw:before {
-  content: "\65";
-}
-
-.high-faculty:before {
-  content: "\67";
-}
-
 .high-alecto:before {
   content: "\6a";
 }
-
 .high-alec:before {
   content: "\69";
 }
-
-.high-hufflepuff:before {
-  content: "\6b";
-}
-
-.high-slytherin:before {
-  content: "\6c";
-}
-
 .high-romy2:before {
   content: "\6d";
+}
+.high-darius:before {
+  content: "\66";
+}
+.high-melo:before {
+  content: "\65";
 }
