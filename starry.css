@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "starry";
-  src:url("https://dl.dropbox.com/s/omr6pe2nw8o7qfr/starry.eot");
-  src:url("https://dl.dropbox.com/s/omr6pe2nw8o7qfr/starry.eot?#iefix") format("embedded-opentype"),
-    url("https://dl.dropbox.com/s/5q98ho9g9vueou3/starry.woff") format("woff"),
-    url("https://dl.dropbox.com/s/h0a8q97uyw0pggn/starry.ttf") format("truetype"),
-    url("https://dl.dropbox.com/s/t9q8atweglwwjff/starry.svg#starry") format("svg");
+  src:url("//christieclee.github.io/starryrepo/starry.eot");
+  src:url("//christieclee.github.io/starryrepo/starry.eot?#iefix") format("embedded-opentype"),
+    url("//christieclee.github.io/starryrepo/starry.woff") format("woff"),
+    url("//christieclee.github.io/starryrepo/starry.ttf") format("truetype"),
+    url("//christieclee.github.io/starryrepo/starry.svg#starry") format("svg");
   font-weight: normal;
   font-style: normal;
 
