@@ -373,3 +373,7 @@
 .s-wind:before {
   content: "\a76";
 }
+
+.s-flying-letter:before {
+  content: "\a63";
+}
