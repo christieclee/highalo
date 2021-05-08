@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "asmodeus";
+  src:url("https://dl.dropbox.com/s/bf4w32wj6gwai70/honey.eot");
+  src:url("https://dl.dropbox.com/s/bf4w32wj6gwai70/honey.eot") format("embedded-opentype"),
+    url("fhttps://dl.dropbox.com/s/bg7z7k3ro79s7rq/honey.woff") format("woff"),
+    url("https://dl.dropbox.com/s/in6bjy2zuhtmqvs/honey.ttf") format("truetype"),
+    url("https://dl.dropbox.com/s/cme9kkrl5qng8dd/honey.svg#honey") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "asmodeus" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="am-"]:before,
+[class*=" am-"]:before {
+  font-family: "asmodeus" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+[class^="am-"],[class*=" am-"]{display:inline-grid;}
+
+.am-brush:before {
+  content: "\e900";
+}
+.am-cassette:before {
+  content: "\e901";
+}
+.am-cello:before {
+  content: "\e902";
+}
+.am-ghost:before {
+  content: "\e903";
+}
+.am-shell:before {
+  content: "\e904";
+}
+.am-sunflower:before {
+  content: "\e905";
+}
