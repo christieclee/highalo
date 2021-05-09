@@ -97,6 +97,12 @@
   content: "\c35";
 }
 
-.ha-sunglasses:before {
+.ha-balloon:before {
+  content: "\c38";
+}
+.ha-cat:before {
+  content: "\c37";
+}
+.ha-cat-full:before {
   content: "\c36";
 }
