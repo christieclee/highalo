@@ -106,3 +106,7 @@
 .ha-cat-full:before {
   content: "\c36";
 }
+
+.ha-tattoo:before {
+  content: "\c39";
+}
