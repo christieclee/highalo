@@ -67,12 +67,15 @@
 .vi-neko:before {
   content: "\faa";
 }
+.vi-neko:before {
+  content: "\20";
+}
 .vi-queen:before {
-  content: "\fab";
+  content: "\2a";
 }
 .vi-star:before {
-  content: "\fac";
+  content: "\3a";
 }
 .vi-thorn:before {
-  content: "\fad";
+  content: "\4a";
 }
