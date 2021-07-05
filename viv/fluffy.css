@@ -60,3 +60,19 @@
 .vi-ukelele:before {
   content: "\fe";
 }
+
+.vi-crane:before {
+  content: "\ff";
+}
+.vi-neko:before {
+  content: "\faa";
+}
+.vi-queen:before {
+  content: "\fab";
+}
+.vi-star:before {
+  content: "\fac";
+}
+.vi-thorn:before {
+  content: "\fad";
+}
