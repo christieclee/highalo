@@ -64,9 +64,7 @@
 .vi-crane:before {
   content: "\ff";
 }
-.vi-neko:before {
-  content: "\faa";
-}
+
 .vi-neko:before {
   content: "\20";
 }
