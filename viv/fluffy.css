@@ -46,7 +46,7 @@
 [class^="st-"],[class*=" st-"]{display:inline-grid;}
 
 .vi-neko:before {
-  content: "\5a";
+  content: "\e900";
 }
 .vi-queen:before {
   content: "\2a";
