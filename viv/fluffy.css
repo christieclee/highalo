@@ -45,26 +45,6 @@
 
 [class^="st-"],[class*=" st-"]{display:inline-grid;}
 
-.vi-paintbrush:before {
-  content: "\fa";
-}
-.vi-lily:before {
-  content: "\fb";
-}
-.vi-knife:before {
-  content: "\fc";
-}
-.vi-snowdrop:before {
-  content: "\fd";
-}
-.vi-ukelele:before {
-  content: "\fe";
-}
-
-.vi-crane:before {
-  content: "\ff";
-}
-
 .vi-neko:before {
   content: "\20";
 }
@@ -76,4 +56,22 @@
 }
 .vi-thorn:before {
   content: "\4a";
+}
+.vi-crane:before {
+  content: "\ff";
+}
+.vi-knife:before {
+  content: "\fc";
+}
+.vi-lily:before {
+  content: "\fb";
+}
+.vi-paintbrush:before {
+  content: "\fa";
+}
+.vi-snowdrop:before {
+  content: "\fd";
+}
+.vi-ukelele:before {
+  content: "\fe";
 }
