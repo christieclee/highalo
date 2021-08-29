@@ -74,3 +74,10 @@
 .st-wand:before {
   content: "\c009";
 }
+
+.st-angy:before {
+  content: "\c010";
+}
+.st-wolf:before {
+  content: "\c011";
+}
