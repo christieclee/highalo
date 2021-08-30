@@ -43,7 +43,9 @@
 
 
 [class^="bb-"],[class*=" bb-"]{display:inline-grid;}
-
+.bb-sunvee:before {
+  content: "\bb11";
+}
 
 .bb-cat:before {
   content: "\bb1";
@@ -76,6 +78,3 @@
   content: "\bb10";
 }
 
-.bb-sunvee:before {
-  content: "\bb11";
-}
