@@ -78,3 +78,25 @@
   content: "\bb10";
 }
 
+
+.bb-cluster:before {
+  content: "\bb12";
+}
+.bb-hex:before {
+  content: "\bb13";
+}
+.bb-rhomb:before {
+  content: "\bb14";
+}
+.bb-rough:before {
+  content: "\bb15";
+}
+.bb-squarez:before {
+  content: "\bb16";
+}
+.bb-square:before {
+  content: "\bb17";
+}
+.bb-teardrop:before {
+  content: "\bb18";
+}
