@@ -92,3 +92,10 @@
 .pb-heart-filled:before {
   content: "\e00e";
 }
+
+.pb-lotus:before {
+  content: "\e900";
+}
+.pb-hourglass:before {
+  content: "\e901";
+}
