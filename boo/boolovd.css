@@ -100,3 +100,7 @@
 .bb-teardrop:before {
   content: "\bb18";
 }
+
+.bb-oval:before {
+  content: "\bb19";
+}
