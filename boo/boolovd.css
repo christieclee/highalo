@@ -46,7 +46,9 @@
 .bb-sunvee:before {
   content: "\bb11";
 }
-
+.bb-oval:before {
+  content: "\bb19";
+}
 .bb-cat:before {
   content: "\bb1";
 }
@@ -99,8 +101,4 @@
 }
 .bb-teardrop:before {
   content: "\bb18";
-}
-
-.bb-oval:before {
-  content: "\bb19";
 }
