@@ -1,0 +1,52 @@
+  
+/*Created by Christie / High for Jaime. Do not steal. Please do not re-host without Jaime's permission. */ 
+
+@charset "UTF-8";
+
+@font-face {
+  font-family: "birdie";
+  src:url("//christieclee.github.io/highalo/jaime/birdie.eot");
+  src:url("//christieclee.github.io/highalo/jaime/birdie.eot") format("embedded-opentype"),
+    url("//christieclee.github.io/highalo/jaime/birdie.woff") format("woff"),
+    url("//christieclee.github.io/highalo/jaime/birdie.ttf") format("truetype"),
+    url("//christieclee.github.io/highalo/jaime/birdie.svg#honey") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "birdie" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="bi-"]:before,
+[class*=" bi-"]:before {
+  font-family: "birdie" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+[class^="bi-"],[class*=" bi-"]{display:inline-grid;}
+
+.bi-herbert:before {
+  content: "\ec01";
+}
+.bi-brain:before {
+  content: "\ec02";
+}
