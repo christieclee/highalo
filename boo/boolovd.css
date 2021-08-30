@@ -75,3 +75,7 @@
 .bb-wimby:before {
   content: "\bb10";
 }
+
+.bb-sunvee:before {
+  content: "\bb11";
+}
