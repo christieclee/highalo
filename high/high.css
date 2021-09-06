@@ -91,3 +91,13 @@
 .high-melo:before {
   content: "\65";
 }
+
+.high-lissy:before {
+  content: "\e222";
+}
+.high-rhys:before {
+  content: "\e223";
+}
+.high-rook:before {
+  content: "\e224";
+}
