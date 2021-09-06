@@ -101,3 +101,7 @@
 .high-rook:before {
   content: "\e224";
 }
+
+.high-dom2:before {
+  content: "\e900";
+}
