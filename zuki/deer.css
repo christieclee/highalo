@@ -47,3 +47,7 @@
 .de-figs:before {
   content: "\d100";
 }
+
+.de-lotus-1:before {
+  content: "\d101";
+}
