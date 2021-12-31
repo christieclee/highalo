@@ -43,6 +43,8 @@
 
 [class^="high-"],[class*=" high-"]{display:inline-grid;}
 
+
+
 .high-paris:before {
   content: "\31";
 }
@@ -108,4 +110,8 @@
 
 .high-yakult:before {
   content: "\e901";
+}
+
+.high-paris2:before {
+  content: "\e902";
 }
