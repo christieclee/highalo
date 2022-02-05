@@ -381,3 +381,70 @@
 .s-flying-letter:before {
   content: "\a63";
 }
+
+.s-alchemy:before {
+  content: "\a112";
+}
+.s-ancient-runes:before {
+  content: "\a113";
+}
+.s-arrow-1:before {
+  content: "\a114";
+}
+.s-arrow-2:before {
+  content: "\a115";
+}
+.s-arrow-3:before {
+  content: "\a116";
+}
+.s-astronomy:before {
+  content: "\a117";
+}
+.s-casting:before {
+  content: "\a118";
+}
+.s-dada:before {
+  content: "\a119";
+}
+.s-griffin:before {
+  content: "\a120";
+}
+.s-herbology:before {
+  content: "\a121";
+}
+.s-hippogriff:before {
+  content: "\a122";
+}
+.s-ice-cream:before {
+  content: "\a123";
+}
+.s-juice:before {
+  content: "\a124";
+}
+.s-lollipop-heart:before {
+  content: "\a125";
+}
+.s-lollipop-spiral:before {
+  content: "\a126";
+}
+.s-lollipops:before {
+  content: "\a127";
+}
+.s-martini:before {
+  content: "\a128";
+}
+.s-mug:before {
+  content: "\a129";
+}
+.s-potion:before {
+  content: "\a130";
+}
+.s-strawberry:before {
+  content: "\a131";
+}
+.s-transfiguration:before {
+  content: "\a134";
+}
+.s-trophy:before {
+  content: "\a135";
+}
