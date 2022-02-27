@@ -448,3 +448,10 @@
 .s-trophy:before {
   content: "\a135";
 }
+
+.s-stars:before {
+  content: "\a136";
+}
+.s-sparkle2:before {
+  content: "\a137";
+}
