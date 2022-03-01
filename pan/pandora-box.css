@@ -99,3 +99,13 @@
 .pb-hourglass:before {
   content: "\e901";
 }
+
+.pb-candle:before {
+  content: "\e102";
+}
+.pb-flower:before {
+  content: "\e103";
+}
+.pb-wing:before {
+  content: "\e104";
+}
