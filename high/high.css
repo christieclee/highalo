@@ -104,3 +104,7 @@
 .high-paris2:before {
   content: "\e902";
 }
+
+.high-ellis:before {
+  content: "\e903";
+}
