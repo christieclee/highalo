@@ -42,7 +42,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
 [class^="st-"],[class*=" st-"]{display:inline-grid;}
 
 .vi-neko:before {
@@ -74,4 +73,11 @@
 }
 .vi-ukelele:before {
   content: "\fe";
+}
+
+.vi-heart-note:before {
+  content: "\e8df";
+}
+.vi-night-bloom:before {
+  content: "\e8da";
 }
