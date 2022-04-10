@@ -113,3 +113,10 @@
 .ha-tattoo:before {
   content: "\c39";
 }
+
+.ha-scarecrow:before {
+  content: "\c41";
+}
+.ha-whisk:before {
+  content: "\c40";
+}
