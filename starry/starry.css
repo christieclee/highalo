@@ -455,3 +455,49 @@
 .s-sparkle2:before {
   content: "\a137";
 }
+
+.s-sign:before {
+  content: "\e902";
+}
+.s-cat:before {
+  content: "\e90e";
+}
+.s-backpack:before {
+  content: "\e900";
+}
+.s-bell:before {
+  content: "\e901";
+}
+.s-claw:before {
+  content: "\e903";
+}
+.s-clover:before {
+  content: "\e904";
+}
+.s-comet:before {
+  content: "\e905";
+}
+.s-dog:before {
+  content: "\e906";
+}
+.s-essay:before {
+  content: "\e907";
+}
+.s-fire-filled:before {
+  content: "\e908";
+}
+.s-fire:before {
+  content: "\e909";
+}
+.s-frog:before {
+  content: "\e90a";
+}
+.s-mouse:before {
+  content: "\e90b";
+}
+.s-rainbow:before {
+  content: "\e90c";
+}
+.s-scroll:before {
+  content: "\e90d";
+}
