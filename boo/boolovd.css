@@ -102,3 +102,7 @@
 .bb-teardrop:before {
   content: "\bb18";
 }
+
+.bb-grappler:before {
+  content: "\bb20";
+}
