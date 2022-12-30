@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'seelie';
+  src:  url('fonts/seelie.eot?kryb8w');
+  src:  url('fonts/seelie.eot?kryb8w#iefix') format('embedded-opentype'),
+    url('fonts/seelie.woff2?kryb8w') format('woff2'),
+    url('fonts/seelie.ttf?kryb8w') format('truetype'),
+    url('fonts/seelie.woff?kryb8w') format('woff'),
+    url('fonts/seelie.svg?kryb8w#seelie') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="se-"], [class*=" se-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'seelie' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.se-fox:before {
+  content: "\ef01";
+}
+.se-rabbit:before {
+  content: "\ef02";
+}
+.se-wisteria:before {
+  content: "\ef03";
+}
