@@ -120,3 +120,16 @@
 .ha-whisk:before {
   content: "\c40";
 }
+
+.ha-book-stack2:before {
+  content: "\c42";
+}
+.ha-crane2:before {
+  content: "\c43";
+}
+.ha-ghostie:before {
+  content: "\c45";
+}
+.ha-tarot-card2:before {
+  content: "\c44";
+}
