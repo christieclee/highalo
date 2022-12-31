@@ -34,54 +34,8 @@
 .lf-hot-air-balloon:before {
   content: "\e90b";
 }
-.lf-lightning-bottle .path1:before {
+.lf-lightning-bottle:before {
   content: "\e90c";
-  color: rgb(10, 10, 10);
-}
-.lf-lightning-bottle .path2:before {
-  content: "\e910";
-  margin-left: -1em;
-  color: rgb(10, 10, 10);
-}
-.lf-lightning-bottle .path3:before {
-  content: "\e911";
-  margin-left: -1em;
-  color: rgb(10, 10, 10);
-}
-.lf-lightning-bottle .path4:before {
-  content: "\e912";
-  margin-left: -1em;
-  color: rgb(35, 35, 35);
-}
-.lf-lightning-bottle .path5:before {
-  content: "\e913";
-  margin-left: -1em;
-  color: rgb(35, 35, 35);
-}
-.lf-lightning-bottle .path6:before {
-  content: "\e914";
-  margin-left: -1em;
-  color: rgb(35, 35, 35);
-}
-.lf-lightning-bottle .path7:before {
-  content: "\e915";
-  margin-left: -1em;
-  color: rgb(35, 35, 35);
-}
-.lf-lightning-bottle .path8:before {
-  content: "\e916";
-  margin-left: -1em;
-  color: rgb(35, 35, 35);
-}
-.lf-lightning-bottle .path9:before {
-  content: "\e917";
-  margin-left: -1em;
-  color: rgb(35, 35, 35);
-}
-.lf-lightning-bottle .path10:before {
-  content: "\e918";
-  margin-left: -1em;
-  color: rgb(10, 10, 10);
 }
 .lf-sour-candy:before {
   content: "\ef90d";
