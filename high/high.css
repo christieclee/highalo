@@ -30,7 +30,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-[class^="high-"],[class*=" high-"]{display:inline-grid;}
+[class^="high-"],[class*="high-"]{display:inline-grid;}
 
 
 
