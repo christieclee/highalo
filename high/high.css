@@ -34,55 +34,21 @@
 
 
 
-.high-paris:before {
-  content: "\31";
+.high-ravi:before {
+  content: "\e905";
 }
-.high-marko:before {
-  content: "\33";
+.high-khalil:before {
+  content: "\e904";
 }
-.high-leon:before {
-  content: "\34";
+.high-ellis:before {
+  content: "\e903";
 }
-.high-seema:before {
-  content: "\37";
+.high-paris2:before {
+  content: "\e902";
 }
-.high-yusuf:before {
-  content: "\38";
+.high-yakult:before {
+  content: "\e901";
 }
-.high-wick:before {
-  content: "\61";
-}
-.high-pippa:before {
-  content: "\63";
-}
-.high-dom:before {
-  content: "\64";
-}
-.high-alice:before {
-  content: "\68";
-}
-.high-romy:before {
-  content: "\62";
-}
-.high-olive:before {
-  content: "\6f";
-}
-.high-alecto:before {
-  content: "\6a";
-}
-.high-alec:before {
-  content: "\69";
-}
-.high-romy2:before {
-  content: "\6d";
-}
-.high-darius:before {
-  content: "\66";
-}
-.high-melo:before {
-  content: "\65";
-}
-
 .high-lissy:before {
   content: "\e222";
 }
@@ -92,28 +58,48 @@
 .high-rook:before {
   content: "\e224";
 }
-
-.high-dom2:before {
-  content: "\e900";
+.high-darius:before {
+  content: "\66";
 }
-
-.high-yakult:before {
-  content: "\e901";
+.high-leon:before {
+  content: "\34";
 }
-
-.high-paris2:before {
-  content: "\e902";
+.high-marko:before {
+  content: "\33";
 }
-
-.high-ellis:before {
-  content: "\e903";
+.high-paris:before {
+  content: "\31";
 }
-
-
-.high-khalil:before {
-  content: "\e904";
+.high-pippa:before {
+  content: "\63";
 }
-
-.high-ravi:before {
-  content: "\e905";
+.high-seema:before {
+  content: "\37";
+}
+.high-wick:before {
+  content: "\61";
+}
+.high-yusuf:before {
+  content: "\38";
+}
+.high-romy2:before {
+  content: "\6d";
+}
+.high-alec:before {
+  content: "\69";
+}
+.high-alecto:before {
+  content: "\6a";
+}
+.high-dom:before {
+  content: "\64";
+}
+.high-melo:before {
+  content: "\65";
+}
+.high-olive:before {
+  content: "\6f";
+}
+.high-romy:before {
+  content: "\62";
 }
