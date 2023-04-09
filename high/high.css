@@ -49,6 +49,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+.high-high:before {
+  content: "\e900";
+}
+
 .high-ravi:before {
   content: "\e905";
 }
