@@ -511,3 +511,19 @@
 .s-delete:before {
   content: "\e911";
 }
+
+.s-hat:before {
+  content: "\e912";
+}
+.s-keycap:before {
+  content: "\e913";
+}
+.s-map:before {
+  content: "\e914";
+}
+.s-plot:before {
+  content: "\e915";
+}
+.s-quill-writing:before {
+  content: "\e916";
+}
