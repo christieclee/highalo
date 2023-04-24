@@ -527,3 +527,22 @@
 .s-quill-writing:before {
   content: "\e916";
 }
+
+.s-cape-1:before {
+  content: "\e917";
+}
+.s-cape-2:before {
+  content: "\e918";
+}
+.s-open-book-2:before {
+  content: "\e919";
+}
+.s-scroll-tied:before {
+  content: "\e91a";
+}
+.s-speech-bubbles:before {
+  content: "\e91b";
+}
+.s-speech-crown:before {
+  content: "\e91c";
+}
