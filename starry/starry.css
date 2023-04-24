@@ -546,3 +546,6 @@
 .s-speech-crown:before {
   content: "\e91c";
 }
+.s-cape-line:before {
+  content: "\e91d";
+}
