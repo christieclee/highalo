@@ -549,3 +549,17 @@
 .s-cape-line:before {
   content: "\e91d";
 }
+
+
+.s-sparkle5:before {
+  content: "\e920";
+}
+.s-sparkle6:before {
+  content: "\e921";
+}
+.s-sparkle3:before {
+  content: "\e91e";
+}
+.s-sparkle4:before {
+  content: "\e91f";
+}
