@@ -137,10 +137,10 @@
   content: "\e908";
 }
 
-.high-mox:before {
-  content: "\e900";
-}
-
 .high-teddy:before {
   content: "\e909";
+}
+
+.high-mox:before {
+  content: "\e900";
 }
