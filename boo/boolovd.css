@@ -103,6 +103,16 @@
   content: "\bb18";
 }
 
+.bb-cinnabun:before {
+  content: "\e900";
+}
+.bb-mp3:before {
+  content: "\e901";
+}
+.bb-study2:before {
+  content: "\e902";
+}
+
 .bb-grappler:before {
   content: "\bb20";
 }
