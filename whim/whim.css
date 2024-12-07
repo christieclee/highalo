@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'whim';
+  src:  url('fonts/whim.eot?hjislm');
+  src:  url('fonts/whim.eot?hjislm#iefix') format('embedded-opentype'),
+    url('fonts/whim.woff2?hjislm') format('woff2'),
+    url('fonts/whim.ttf?hjislm') format('truetype'),
+    url('fonts/whim.woff?hjislm') format('woff'),
+    url('fonts/whim.svg?hjislm#whim') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="wh-"], [class*=" wh-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'whim' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wh-starburst-orbit-line:before {
+  content: "\e900";
+}
+.wh-starburst-dot-line:before {
+  content: "\e901";
+}
+.wh-starburst-filled:before {
+  content: "\e902";
+}
+.wh-starburst-dot:before {
+  content: "\e903";
+}
+.wh-starburst-line:before {
+  content: "\e904";
+}
+.wh-starburst-orbit:before {
+  content: "\e905";
+}
+.wh-starburst-stars-line:before {
+  content: "\e906";
+}
+.wh-starburst-stars:before {
+  content: "\e907";
+}
+.wh-starburst-bright-line:before {
+  content: "\e908";
+}
+.wh-starburst-bright:before {
+  content: "\e909";
+}
+.wh-sonnet:before {
+  content: "\e90a";
+}
+.wh-ray-bottom:before {
+  content: "\e90b";
+}
+.wh-ray-top:before {
+  content: "\e90c";
+}
+.wh-rays:before {
+  content: "\e90d";
+}
