@@ -129,18 +129,18 @@
   content: "\e90d";
 }
 
-.wh-whitetail_deer:before {
-  content: "\e913";
-}
-.wh-grey_fox:before {
+.wh-grey-fox:before {
   content: "\e923";
 }
-.wh-leaf_frog:before {
+.wh-leaf-frog:before {
   content: "\e924";
 }
-.wh-stag_beetle:before {
+.wh-stag-beetle:before {
   content: "\e925";
 }
-.wh-tailor_bird:before {
+.wh-tailor-bird:before {
   content: "\e92c";
+}
+.wh-whitetail-deer:before {
+  content: "\e913";
 }
