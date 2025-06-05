@@ -25,8 +25,68 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.wh-starburst-orbit-line:before {
+.wh-beetle:before {
+  content: "\e91e";
+}
+.wh-bird:before {
+  content: "\e91f";
+}
+.wh-deer:before {
+  content: "\e920";
+}
+.wh-fox:before {
+  content: "\e921";
+}
+.wh-frog:before {
+  content: "\e922";
+}
+.wh-sonnet-filled:before {
   content: "\e900";
+}
+.wh-cape-1:before {
+  content: "\e90e";
+}
+.wh-cape-2:before {
+  content: "\e90f";
+}
+.wh-cape-line:before {
+  content: "\e910";
+}
+.wh-delete:before {
+  content: "\e911";
+}
+.wh-edit:before {
+  content: "\e912";
+}
+.wh-hat:before {
+  content: "\e914";
+}
+.wh-keycap:before {
+  content: "\e915";
+}
+.wh-speech-bubbles:before {
+  content: "\e916";
+}
+.wh-speech-crown:before {
+  content: "\e917";
+}
+.wh-map:before {
+  content: "\e918";
+}
+.wh-open-book-2:before {
+  content: "\e919";
+}
+.wh-plot:before {
+  content: "\e91a";
+}
+.wh-quill-writing:before {
+  content: "\e91b";
+}
+.wh-quote:before {
+  content: "\e91c";
+}
+.wh-scroll-tied:before {
+  content: "\e91d";
 }
 .wh-starburst-dot-line:before {
   content: "\e901";
@@ -67,6 +127,7 @@
 .wh-rays:before {
   content: "\e90d";
 }
+
 
 
 .wh-sonnet-filled:before {
