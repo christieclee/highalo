@@ -132,3 +132,15 @@
 .wh-whitetail_deer:before {
   content: "\e913";
 }
+.wh-grey_fox:before {
+  content: "\e923";
+}
+.wh-leaf_frog:before {
+  content: "\e924";
+}
+.wh-stag_beetle:before {
+  content: "\e925";
+}
+.wh-tailor_bird:before {
+  content: "\e92c";
+}
