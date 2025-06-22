@@ -144,3 +144,16 @@
 .wh-whitetail-deer:before {
   content: "\e913";
 }
+
+.wh-civilian:before {
+  content: "\e926";
+}
+.wh-faculty:before {
+  content: "\e927";
+}
+.wh-ostara:before {
+  content: "\e928";
+}
+.wh-staff:before {
+  content: "\e929";
+}
