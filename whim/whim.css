@@ -157,3 +157,7 @@
 .wh-staff:before {
   content: "\e929";
 }
+
+.wh-members:before {
+  content: "\e92b";
+}
