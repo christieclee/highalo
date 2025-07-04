@@ -1,52 +1,15 @@
-
-  
-/*Created by Christie / High for Alohomora. Please do not steal or re-host outside of Alohomora. */ 
-
-@charset "UTF-8";
-
-@font-face {
-  font-family: "starry";
-  src:url("//christieclee.github.io/highalo/starry/starry.eot");
-  src:url("//christieclee.github.io/highalo/starry/starry.eot?#iefix") format("embedded-opentype"),
-    url("//christieclee.github.io/highalo/starry/starry.woff") format("woff"),
-    url("//christieclee.github.io/highalo/starry/starry.ttf") format("truetype"),
-    url("//christieclee.github.io/highalo/starry/starry.svg#starry") format("svg");
-  font-weight: normal;
-  font-style: normal;
-
+.s-bee:before {
+  content: "\e916";
 }
-
-
-
-[data-icon]:before {
-  font-family: "starry" !important;
-  content: attr(data-icon);
-  font-style: normal !important;
-  font-weight: normal !important;
-  font-variant: normal !important;
-  text-transform: none !important;
-  speak: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.s-mandrake:before {
+  content: "\e917";
 }
-
-[class^="s-"]:before,
-[class*=" s-"]:before {
-  font-family: "starry" !important;
-  font-style: normal !important;
-  font-weight: normal !important;
-  font-variant: normal !important;
-  text-transform: none !important;
-  speak: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.s-coin:before {
+  content: "\e918";
 }
-
-
-[class^="s-"],[class*=" s-"]{display:inline-grid;}
-
+.s-tree-4:before {
+  content: "\e919";
+}
 .s-deer:before {
   content: "\e915";
 }
@@ -79,9 +42,6 @@
 }
 .s-sparkle3a:before {
   content: "\e91f";
-}
-.s-cape-1:before {
-  content: "\e917";
 }
 .s-sign:before {
   content: "\e902";
@@ -134,12 +94,6 @@
 .s-sparkle2:before {
   content: "\a137";
 }
-.s-alchemy:before {
-  content: "\a112";
-}
-.s-ancient-runes:before {
-  content: "\a113";
-}
 .s-arrow-1:before {
   content: "\a114";
 }
@@ -152,8 +106,8 @@
 .s-astronomy:before {
   content: "\a117";
 }
-.s-herbology:before {
-  content: "\a121";
+.s-casting:before {
+  content: "\a118";
 }
 .s-ice-cream:before {
   content: "\a123";
@@ -182,14 +136,8 @@
 .s-strawberry:before {
   content: "\a131";
 }
-.s-transfiguration:before {
-  content: "\a134";
-}
 .s-trophy:before {
   content: "\a135";
-}
-.s-flying-letter:before {
-  content: "\a63";
 }
 .s-aloe:before {
   content: "\a53";
@@ -218,9 +166,6 @@
 .s-dark-magic:before {
   content: "\a33";
 }
-.s-door-knocker:before {
-  content: "\a15";
-}
 .s-eagle:before {
   content: "\a23";
 }
@@ -241,6 +186,9 @@
 }
 .s-inkwell:before {
   content: "\a31";
+}
+.s-key:before {
+  content: "\a6";
 }
 .s-keychain:before {
   content: "\a12";
@@ -271,15 +219,6 @@
 }
 .s-mushroom:before {
   content: "\a55";
-}
-.s-nimbus:before {
-  content: "\a35";
-}
-.s-open-book:before {
-  content: "\a56";
-}
-.s-owl-post:before {
-  content: "\a26";
 }
 .s-padlock:before {
   content: "\a22";
@@ -328,9 +267,6 @@
 }
 .s-tree:before {
   content: "\a50";
-}
-.s-tropic:before {
-  content: "\a51";
 }
 .s-tulip:before {
   content: "\a52";
@@ -383,9 +319,6 @@
 .s-divination:before {
   content: "\a95";
 }
-.s-eagle-flipped:before {
-  content: "\a59";
-}
 .s-eclipse-1:before {
   content: "\a67";
 }
@@ -398,23 +331,14 @@
 .s-heart-2:before {
   content: "\a97";
 }
-.s-heart-3:before {
-  content: "\a98";
-}
 .s-heart-fill:before {
   content: "\a99";
 }
 .s-house-1:before {
   content: "\a79";
 }
-.s-house-2:before {
-  content: "\a80";
-}
 .s-juicebox:before {
   content: "\a100";
-}
-.s-lion-flipped:before {
-  content: "\a60";
 }
 .s-money-bag:before {
   content: "\a83";
@@ -436,9 +360,6 @@
 }
 .s-sapling:before {
   content: "\a87";
-}
-.s-snake-flipped:before {
-  content: "\a61";
 }
 .s-snow:before {
   content: "\a74";
@@ -473,4 +394,3 @@
 .s-wind:before {
   content: "\a76";
 }
-
