@@ -47,6 +47,150 @@
 
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
+.s-deer:before {
+  content: "\e915";
+}
+.s-bird:before {
+  content: "\e913";
+}
+.s-fox:before {
+  content: "\e914";
+}
+.s-beetle:before {
+  content: "\e90f";
+}
+.s-book:before {
+  content: "\e910";
+}
+.s-shell:before {
+  content: "\e911";
+}
+.s-windmill:before {
+  content: "\e912";
+}
+.s-sparkle4b:before {
+  content: "\e920";
+}
+.s-sparkle4a:before {
+  content: "\e921";
+}
+.s-sparkle3b:before {
+  content: "\e91e";
+}
+.s-sparkle3a:before {
+  content: "\e91f";
+}
+.s-cape-1:before {
+  content: "\e917";
+}
+.s-sign:before {
+  content: "\e902";
+}
+.s-cat:before {
+  content: "\e90e";
+}
+.s-backpack:before {
+  content: "\e900";
+}
+.s-bell:before {
+  content: "\e901";
+}
+.s-claw:before {
+  content: "\e903";
+}
+.s-clover:before {
+  content: "\e904";
+}
+.s-comet:before {
+  content: "\e905";
+}
+.s-dog:before {
+  content: "\e906";
+}
+.s-essay:before {
+  content: "\e907";
+}
+.s-fire-filled:before {
+  content: "\e908";
+}
+.s-fire:before {
+  content: "\e909";
+}
+.s-frog:before {
+  content: "\e90a";
+}
+.s-mouse:before {
+  content: "\e90b";
+}
+.s-rainbow:before {
+  content: "\e90c";
+}
+.s-scroll:before {
+  content: "\e90d";
+}
+.s-stars:before {
+  content: "\a136";
+}
+.s-sparkle2:before {
+  content: "\a137";
+}
+.s-alchemy:before {
+  content: "\a112";
+}
+.s-ancient-runes:before {
+  content: "\a113";
+}
+.s-arrow-1:before {
+  content: "\a114";
+}
+.s-arrow-2:before {
+  content: "\a115";
+}
+.s-arrow-3:before {
+  content: "\a116";
+}
+.s-astronomy:before {
+  content: "\a117";
+}
+.s-herbology:before {
+  content: "\a121";
+}
+.s-ice-cream:before {
+  content: "\a123";
+}
+.s-juice:before {
+  content: "\a124";
+}
+.s-lollipop-heart:before {
+  content: "\a125";
+}
+.s-lollipop-spiral:before {
+  content: "\a126";
+}
+.s-lollipops:before {
+  content: "\a127";
+}
+.s-martini:before {
+  content: "\a128";
+}
+.s-mug:before {
+  content: "\a129";
+}
+.s-potion:before {
+  content: "\a130";
+}
+.s-strawberry:before {
+  content: "\a131";
+}
+.s-transfiguration:before {
+  content: "\a134";
+}
+.s-trophy:before {
+  content: "\a135";
+}
+.s-flying-letter:before {
+  content: "\a63";
+}
 .s-aloe:before {
   content: "\a53";
 }
@@ -77,9 +221,6 @@
 .s-door-knocker:before {
   content: "\a15";
 }
-.s-dueling:before {
-  content: "\a14";
-}
 .s-eagle:before {
   content: "\a23";
 }
@@ -100,9 +241,6 @@
 }
 .s-inkwell:before {
   content: "\a31";
-}
-.s-key:before {
-  content: "\a6";
 }
 .s-keychain:before {
   content: "\a12";
@@ -170,23 +308,14 @@
 .s-snake:before {
   content: "\a8";
 }
-.s-snitch:before {
-  content: "\a38";
-}
 .s-sparkle:before {
   content: "\a39";
 }
 .s-spell-book:before {
   content: "\a7";
 }
-.s-spell:before {
-  content: "\a40";
-}
 .s-third-eye:before {
   content: "\a5";
-}
-.s-time-turner:before {
-  content: "\a20";
 }
 .s-tower:before {
   content: "\a41";
@@ -209,9 +338,6 @@
 .s-unlock:before {
   content: "\a21";
 }
-.s-waning-moon:before {
-  content: "\a112";
-}
 .s-watering-can:before {
   content: "\a57";
 }
@@ -220,18 +346,6 @@
 }
 .s-witch-hat:before {
   content: "\a9";
-}
-.s-gear:before {
-  content: "\a111";
-}
-.s-alo:before {
-  content: "\a110";
-}
-.s-civilian:before {
-  content: "\a109";
-}
-.s-gryffindor:before {
-  content: "\a105";
 }
 .s-acorn:before {
   content: "\a89";
@@ -275,17 +389,8 @@
 .s-eclipse-1:before {
   content: "\a67";
 }
-.s-faculty:before {
-  content: "\a104";
-}
 .s-fruit-tree:before {
   content: "\a82";
-}
-.s-galleon-s:before {
-  content: "\a64";
-}
-.s-galleon:before {
-  content: "\a62";
 }
 .s-heart-1:before {
   content: "\a96";
@@ -304,9 +409,6 @@
 }
 .s-house-2:before {
   content: "\a80";
-}
-.s-hufflepuff:before {
-  content: "\a106";
 }
 .s-juicebox:before {
   content: "\a100";
@@ -332,14 +434,8 @@
 .s-rain:before {
   content: "\a75";
 }
-.s-ravenclaw:before {
-  content: "\a107";
-}
 .s-sapling:before {
   content: "\a87";
-}
-.s-slytherin:before {
-  content: "\a108";
 }
 .s-snake-flipped:before {
   content: "\a61";
@@ -378,188 +474,3 @@
   content: "\a76";
 }
 
-.s-flying-letter:before {
-  content: "\a63";
-}
-
-.s-alchemy:before {
-  content: "\a112";
-}
-.s-ancient-runes:before {
-  content: "\a113";
-}
-.s-arrow-1:before {
-  content: "\a114";
-}
-.s-arrow-2:before {
-  content: "\a115";
-}
-.s-arrow-3:before {
-  content: "\a116";
-}
-.s-astronomy:before {
-  content: "\a117";
-}
-.s-casting:before {
-  content: "\a118";
-}
-.s-dada:before {
-  content: "\a119";
-}
-.s-griffin:before {
-  content: "\a120";
-}
-.s-herbology:before {
-  content: "\a121";
-}
-.s-hippogriff:before {
-  content: "\a122";
-}
-.s-ice-cream:before {
-  content: "\a123";
-}
-.s-juice:before {
-  content: "\a124";
-}
-.s-lollipop-heart:before {
-  content: "\a125";
-}
-.s-lollipop-spiral:before {
-  content: "\a126";
-}
-.s-lollipops:before {
-  content: "\a127";
-}
-.s-martini:before {
-  content: "\a128";
-}
-.s-mug:before {
-  content: "\a129";
-}
-.s-potion:before {
-  content: "\a130";
-}
-.s-strawberry:before {
-  content: "\a131";
-}
-.s-transfiguration:before {
-  content: "\a134";
-}
-.s-trophy:before {
-  content: "\a135";
-}
-
-.s-stars:before {
-  content: "\a136";
-}
-.s-sparkle2:before {
-  content: "\a137";
-}
-
-.s-sign:before {
-  content: "\e902";
-}
-.s-cat:before {
-  content: "\e90e";
-}
-.s-backpack:before {
-  content: "\e900";
-}
-.s-bell:before {
-  content: "\e901";
-}
-.s-claw:before {
-  content: "\e903";
-}
-.s-clover:before {
-  content: "\e904";
-}
-.s-comet:before {
-  content: "\e905";
-}
-.s-dog:before {
-  content: "\e906";
-}
-.s-essay:before {
-  content: "\e907";
-}
-.s-fire-filled:before {
-  content: "\e908";
-}
-.s-fire:before {
-  content: "\e909";
-}
-.s-frog:before {
-  content: "\e90a";
-}
-.s-mouse:before {
-  content: "\e90b";
-}
-.s-rainbow:before {
-  content: "\e90c";
-}
-.s-scroll:before {
-  content: "\e90d";
-}
-
-.s-quote:before {
-  content: "\e90f";
-}
-.s-edit:before {
-  content: "\e910";
-}
-.s-delete:before {
-  content: "\e911";
-}
-
-.s-hat:before {
-  content: "\e912";
-}
-.s-keycap:before {
-  content: "\e913";
-}
-.s-map:before {
-  content: "\e914";
-}
-.s-plot:before {
-  content: "\e915";
-}
-.s-quill-writing:before {
-  content: "\e916";
-}
-
-.s-cape-1:before {
-  content: "\e917";
-}
-.s-cape-2:before {
-  content: "\e918";
-}
-.s-open-book-2:before {
-  content: "\e919";
-}
-.s-scroll-tied:before {
-  content: "\e91a";
-}
-.s-speech-bubbles:before {
-  content: "\e91b";
-}
-.s-speech-crown:before {
-  content: "\e91c";
-}
-.s-cape-line:before {
-  content: "\e91d";
-}
-
-
-.s-sparkle4b:before {
-  content: "\e920";
-}
-.s-sparkle4a:before {
-  content: "\e921";
-}
-.s-sparkle3b:before {
-  content: "\e91e";
-}
-.s-sparkle3a:before {
-  content: "\e91f";
-}
