@@ -47,7 +47,7 @@
 
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
-.s-transmutation-filled:before {
+.s-transmutation:before {
   content: "\e91b";
 }
 
@@ -447,11 +447,6 @@
 .s-wind:before {
   content: "\a76";
 }
-
-.s-transmutation:before {
-  content: "\e91a";
-}
-
 .s-enchantment:before {
   content: "\e91c";
 }
