@@ -443,3 +443,7 @@
 .s-wind:before {
   content: "\a76";
 }
+
+.s-transmutation:before {
+  content: "\e91a";
+}
