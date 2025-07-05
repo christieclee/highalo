@@ -47,6 +47,10 @@
 
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
+.s-transmutation-filled:before {
+  content: "\e91b";
+}
+
 .s-bee:before {
   content: "\e916";
 }
