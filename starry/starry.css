@@ -461,3 +461,7 @@
 .s-psionic:before {
   content: "\e91a";
 }
+
+.s-natural:before {
+  content: "\e923";
+}
