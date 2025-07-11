@@ -47,10 +47,24 @@
 
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
+.s-natural:before {
+  content: "\e923";
+}
+.s-magitech:before {
+  content: "\e91d";
+}
+.s-martial:before {
+  content: "\e922";
+}
+.s-psionic:before {
+  content: "\e91a";
+}
+.s-enchantment:before {
+  content: "\e91c";
+}
 .s-transmutation:before {
   content: "\e91b";
 }
-
 .s-bee:before {
   content: "\e916";
 }
@@ -387,7 +401,7 @@
 .s-heart-fill:before {
   content: "\a99";
 }
-.s-house-1:before {
+.s-house:before {
   content: "\a79";
 }
 .s-juicebox:before {
@@ -446,22 +460,4 @@
 }
 .s-wind:before {
   content: "\a76";
-}
-.s-enchantment:before {
-  content: "\e91c";
-}
-
-
-.s-magitech:before {
-  content: "\e91d";
-}
-.s-martial:before {
-  content: "\e922";
-}
-.s-psionic:before {
-  content: "\e91a";
-}
-
-.s-natural:before {
-  content: "\e923";
 }
