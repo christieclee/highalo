@@ -47,6 +47,39 @@
 
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
+
+.s-flying-horse:before {
+  content: "\e924";
+}
+.s-butterfly:before {
+  content: "\e925";
+}
+.s-cupcake:before {
+  content: "\e926";
+}
+.s-fish:before {
+  content: "\e927";
+}
+.s-game-controller:before {
+  content: "\e928";
+}
+.s-gull:before {
+  content: "\e929";
+}
+.s-lavender:before {
+  content: "\e92a";
+}
+.s-member-whim:before {
+  content: "\e92b";
+}
+.s-member:before {
+  content: "\e92c";
+}
+.s-shrimp:before {
+  content: "\e92d";
+}
+
+
 .s-natural:before {
   content: "\e923";
 }
