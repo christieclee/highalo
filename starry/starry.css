@@ -81,14 +81,8 @@
 .s-croissant:before {
   content: "\e938";
 }
-.s-crystal-ball .path1:before {
+.s-crystal-ball:before {
   content: "\e939";
-  color: rgb(35, 31, 32);
-}
-.s-crystal-ball .path2:before {
-  content: "\e93a";
-  margin-left: -1em;
-  color: rgb(35, 35, 35);
 }
 .s-dango:before {
   content: "\e93b";
