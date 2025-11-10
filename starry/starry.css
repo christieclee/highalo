@@ -48,6 +48,97 @@
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
 
+.s-art-palette:before {
+  content: "\e92e";
+}
+.s-blueberry:before {
+  content: "\e92f";
+}
+.s-bread:before {
+  content: "\e930";
+}
+.s-cactus:before {
+  content: "\e931";
+}
+.s-camera:before {
+  content: "\e932";
+}
+.s-cipher:before {
+  content: "\e933";
+}
+.s-citrus:before {
+  content: "\e934";
+}
+.s-compass:before {
+  content: "\e935";
+}
+.s-cookie:before {
+  content: "\e936";
+}
+.s-cowboy-hat:before {
+  content: "\e937";
+}
+.s-croissant:before {
+  content: "\e938";
+}
+.s-crystal-ball .path1:before {
+  content: "\e939";
+  color: rgb(35, 31, 32);
+}
+.s-crystal-ball .path2:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(35, 35, 35);
+}
+.s-dango:before {
+  content: "\e93b";
+}
+.s-dice:before {
+  content: "\e93c";
+}
+.s-dragon-1:before {
+  content: "\e93d";
+}
+.s-dragon-2:before {
+  content: "\e93e";
+}
+.s-exclamation-point:before {
+  content: "\e93f";
+}
+.s-guitar:before {
+  content: "\e940";
+}
+.s-horseshoe:before {
+  content: "\e941";
+}
+.s-hourglass:before {
+  content: "\e942";
+}
+.s-lantern:before {
+  content: "\e943";
+}
+.s-mistletoe:before {
+  content: "\e944";
+}
+.s-mixing-bowl:before {
+  content: "\e945";
+}
+.s-music-note:before {
+  content: "\e946";
+}
+.s-piano:before {
+  content: "\e947";
+}
+.s-pie:before {
+  content: "\e948";
+}
+.s-sailboat:before {
+  content: "\e949";
+}
+.s-watermelon:before {
+  content: "\e94a";
+}
+
 .s-flying-horse:before {
   content: "\e924";
 }
