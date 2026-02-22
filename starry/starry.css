@@ -48,6 +48,61 @@
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
 
+.s-binder-clip:before {
+  content: "\e93a";
+}
+.s-bookmark-filled:before {
+  content: "\e94b";
+}
+.s-bookmark:before {
+  content: "\e94c";
+}
+.s-broken-heart:before {
+  content: "\e94d";
+}
+.s-fireworks:before {
+  content: "\e94e";
+}
+.s-first-quarter:before {
+  content: "\e94f";
+}
+.s-last-quarter:before {
+  content: "\e950";
+}
+.s-new-moon:before {
+  content: "\e951";
+}
+.s-notebook:before {
+  content: "\e952";
+}
+.s-owl:before {
+  content: "\e953";
+}
+.s-paper-airplane:before {
+  content: "\e954";
+}
+.s-pushpin-filled:before {
+  content: "\e955";
+}
+.s-pushpin:before {
+  content: "\e956";
+}
+.s-tombstone:before {
+  content: "\e957";
+}
+.s-waning-crescent:before {
+  content: "\e958";
+}
+.s-waning-gibbous:before {
+  content: "\e959";
+}
+.s-waxing-crescent:before {
+  content: "\e95a";
+}
+.s-waxing-gibbous:before {
+  content: "\e95b";
+}
+
 .s-art-palette:before {
   content: "\e92e";
 }
