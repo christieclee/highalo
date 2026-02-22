@@ -57,14 +57,16 @@
 .s-bookmark:before {
   content: "\e94c";
 }
-.s-broken-heart:before {
-  content: "\e94d";
-}
+
 .s-fireworks:before {
   content: "\e94e";
 }
 .s-first-quarter:before {
   content: "\e94f";
+}
+
+.s-heart-broken:before {
+  content: "\e94d";
 }
 .s-last-quarter:before {
   content: "\e950";
