@@ -47,6 +47,9 @@
 
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
+.s-paperclip:before {
+  content: "\e95c";
+} 
 
 .s-binder-clip:before {
   content: "\e93a";
