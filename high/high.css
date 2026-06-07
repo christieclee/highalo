@@ -49,6 +49,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.high-dusty:before {
+  content: "\e90a";
+}
+.high-oberon:before {
+  content: "\e90b";
+}
 
 .high-high:before {
   content: "\e900";
