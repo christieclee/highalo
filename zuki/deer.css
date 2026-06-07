@@ -54,3 +54,7 @@
 .de-sunglasses:before {
   content: "\e900";
 }
+
+.de-dagger:before {
+  content: "\e901";
+}
