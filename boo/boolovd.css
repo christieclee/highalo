@@ -116,3 +116,7 @@
 .bb-grappler:before {
   content: "\bb20";
 }
+
+.bb-popstar:before {
+  content: "\e903";
+}
