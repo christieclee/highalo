@@ -113,3 +113,13 @@
 .pb-grimoire:before {
   content: "\e902";
 }
+
+.pb-moth:before {
+  content: "\e903";
+}
+.pb-statue:before {
+  content: "\e904";
+}
+.pb-ladybug:before {
+  content: "\e905";
+}
