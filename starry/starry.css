@@ -47,6 +47,29 @@
 
 [class^="s-"],[class*=" s-"]{display:inline-grid;}
 
+
+.s-speech-exclamation:before {
+  content: "\e95d";
+}
+.s-speech-ellipses:before {
+  content: "\e95e";
+}
+.s-speech-question:before {
+  content: "\e95f";
+}
+.s-speech:before {
+  content: "\e960";
+}
+.s-calendar:before {
+  content: "\e961";
+}
+.s-cassette:before {
+  content: "\e962";
+}
+.s-speech-heart:before {
+  content: "\e963";
+}
+
 .s-paperclip:before {
   content: "\e95c";
 } 
