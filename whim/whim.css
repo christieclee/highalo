@@ -83,9 +83,7 @@
 .wh-quill-writing:before {
   content: "\e91b";
 }
-.wh-quote:before {
-  content: "\e91c";
-}
+
 .wh-scroll-tied:before {
   content: "\e91d";
 }
